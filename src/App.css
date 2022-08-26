@@ -1,0 +1,53 @@
+body {
+
+  height: 100vh;
+  background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(14,107,142,1) 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+ 
+    
+}
+
+h4{
+  color:#22c1c3;
+  text-transform: uppercase;
+}
+
+h6{
+  color:#0d6efd;
+  text-transform: uppercase;
+}
+
+form {
+  background: #ffffff;
+ 
+ 
+}
+
+input {
+
+  width: 100%;
+  background-color: #f5f5f5;
+  border: 1px solid #000000;
+  border-radius: 5px;
+  height: 40px;
+
+}
+
+label {
+  text-transform: uppercase;
+  font-size: 13px;
+  color:#585858;
+}
+
+::placeholder {
+
+  font-size: 14px;
+  
+}
+
+button {
+  width: 100%;
+  
+}
